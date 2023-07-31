@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Project\sim
+vnot_gate
+!i10b 1
+!s100 cV5cZf9FQ@SY;bz4OV?V93
+INW4QU`Zkz?K2EY2k2I]T?2
+V4E4EDUVNdKMQmHPAFP[A_2
+Z1 dC:\Project\sim
+w1688361417
+8../src/rtl/not.v
+F../src/rtl/not.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1688361439.729000
+Z4 !s107 ../testbench/testbench.v|../src/rtl/not.v|
+Z5 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 bgMXZITz;iN2L_0TTMYgB2
+IO`=]2Ff2DJLDLCF?JGD7R2
+VhGfW:390DM[oDMzegDH9`2
+R1
+w1688361434
+8../testbench/testbench.v
+F../testbench/testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+o-O0

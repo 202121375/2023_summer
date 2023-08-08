@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Project\project7\sim\work
+vsr_ff
+!i10b 1
+Z1 !s100 R[c8A2cQX;D926R5C<d1c1
+Z2 I_5WBGP96OSEe5MR8[L>z_3
+Z3 VGgm]:`z<C_E=SHb;6ii9h2
+Z4 dC:\Project\project7\sim\work
+Z5 w1688900655
+Z6 8../../src/rtl/sr_ff.v
+Z7 F../../src/rtl/sr_ff.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1688957947.825000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/sr_ff.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 3?n3S@BP@jz_C29QJQNQW1
+I1RcfX1do:KBGmgf==?`BH1
+Z12 VhGfW:390DM[oDMzegDH9`2
+R4
+w1688957897
+Z13 8../../testbench/testbench.v
+Z14 F../../testbench/testbench.v
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Project\project13\sim\modelsim
+vring_cnt
+!i10b 1
+Z1 !s100 5;N;L:MKmmK1GKLFZh1`A2
+Z2 I0C@Vj3a`BK@efR7g6SZ7Q1
+Z3 V7hF=L1KF9U2IDM2W0mnJE3
+Z4 dC:\Project\project13\sim\modelsim
+Z5 w1691547704
+Z6 8../../src/rtl/ring_cnt.v
+Z7 F../../src/rtl/ring_cnt.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1691548300.143000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/ring_cnt.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtb_ring_cnt
+Z12 I2PDY0KQiPKaW;=GBbFeeB2
+Z13 VF2hA<M5af[Z[>V3<]hUAO1
+R4
+Z14 w1691547744
+Z15 8../../testbench/testbench.v
+Z16 F../../testbench/testbench.v
+L0 1
+R8
+r1
+31
+Z17 !s108 1691548213.012000
+Z18 !s107 ../../testbench/testbench.v|../../src/rtl/ring_cnt.v|
+R11
+o-O0
+!i10b 1
+Z19 !s100 JR`BmC@]aGgW:6lL1B?Vi1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 <iU>2SHKYI@^I0aSIAUmT1
+Ij:0JXPQo2X52hCz6lZKVW0
+Z20 VhGfW:390DM[oDMzegDH9`2
+R4
+w1691548296
+R15
+R16
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
